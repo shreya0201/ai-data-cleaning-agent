@@ -47,9 +47,10 @@ The **AI-Powered Data Cleaning System** is a **Streamlit + FastAPI + AI** applic
 
 ## 📸 Screenshots
 
-![Screenshot 1](assets\pic1.png)
-![Screenshot 2](assets\pic2.png)
-![Screenshot 3](assets\pic3.png)
+![Screenshot 1](assets/pic1.png)
+![Screenshot 2](assets/pic2.png)
+![Screenshot 3](assets/pic3.png)
+
 
 
 ##  How to Run This Project
